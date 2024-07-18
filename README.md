@@ -11,10 +11,6 @@ The source code is coming soon……
 
 ## Comparison results for arbitrary-scale FSR tasks on the CelebA/Helen/FFHQ testing set. 
 
-![example results](Imgs/sym_non_vis.pdf)
-
-![example results](Imgs/asym_non_vis.pdf)
-
 ![example results](Imgs/sym_vis.png)
 
 ![example results](Imgs/asym_vis.png)
