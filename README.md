@@ -2,9 +2,10 @@
 
 ![architecture](Imgs/SAFNet.png)
 
+The source code is coming soon……
 
 ## Comparison results for ×4 and ×8 FSR tasks on the CelebA/Helen/FFHQ testing set.
 
-![example result](Imgs/visual.png)
+![example results](Imgs/visual.png)
 
-The source code is coming soon ……
+
